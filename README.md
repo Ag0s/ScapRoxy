@@ -1,5 +1,5 @@
 # ScapRoxy
-A python scapy proxy
+The Python proxy leverages Scapy to fragment the traffic send to the target.
 
 ## Requirements
 apt-get install build-essential python-dev libnetfilter-queue-dev
