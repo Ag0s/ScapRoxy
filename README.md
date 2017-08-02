@@ -7,7 +7,7 @@ pip install NetfilterQueue
 
 ## Usage
 
-'Usage: scapROXy.py -a 1 -s 500 -p 8080,3128
+Usage: scapROXy.py -a 1 -s 500 -p 8080,3128
 
 Options:
 -a n   --attack-mode=n        - Mode of attack
@@ -19,4 +19,4 @@ Options:
 
 Attack modes:
 1 - Fragmented
-2 - Fragmented and mixed (in development)'
+2 - Fragmented and mixed (in development)
